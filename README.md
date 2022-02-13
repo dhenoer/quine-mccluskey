@@ -16,7 +16,14 @@ oleh blok baris tersebut.
 
 Menu pilihan yang tersedia pada program ini adalah:
 
-1. Input fungsi SOP setiap minterm dipisah dg koma, misal: 1,2,4,5,9,11,12,14,17,18,21,31,32
-2. Input Fungsi SOP dengan format literal, misal: xy + xy' + y
+1. Input fungsi SOP setiap minterm dipisah dg koma, misal: `1,2,4,5,9,11,12,14,17,18,21,31,32`
+2. Input Fungsi SOP dengan format literal, misal: `xy + xy' + y`
 3. Generate fungsi SOP minterm secara random
 4. Selesai
+
+Input persamaan minterm dapat format SOP seperti ditampilan dalam contoh permisalan. 
+Selain itu user dapat juga menginput persamaan Boolean secara literal, misal `xy + xy' +y'` 
+atau `abc + ab + c'`
+
+
+## Tangkapan Layar
