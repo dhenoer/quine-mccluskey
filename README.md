@@ -29,14 +29,14 @@ atau `abc + ab + c'`
 
 ## Tangkapan Layar
 
-[Screenshot Menu](sshot_1_menu.png)
+![Screenshot Menu](sshot_1_menu.png)
 
-[Screenshot Minterm Expression](sshot_2_minterm.png)
+![Screenshot Minterm Expression](sshot_2_minterm.png)
 
-[Screenshot Minterm Expression](sshot_3_minterm.png)
+![Screenshot Minterm Expression](sshot_3_minterm.png)
 
-[Screenshot Prime](sshot_4_minterm.png)
+![Screenshot Prime](sshot_4_minterm.png)
 
-[Screenshot Solusi](sshot_5_minterm.png)
+![Screenshot Solusi](sshot_5_minterm.png)
 
 
