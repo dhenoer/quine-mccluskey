@@ -3,6 +3,7 @@
 Software ini adalah implemetasi MK LogMat untuk memecahkan
 persoalahan penyederhanaan persamaan Boolean dengam metode
 Quine-McCluskey
+
 (c) 2022, Nurhidayat, NIM: 211511001 - K2
 
 ## Spesifikasi Program
@@ -27,3 +28,15 @@ atau `abc + ab + c'`
 
 
 ## Tangkapan Layar
+
+[Screenshot Menu](sshot_1_menu.png)
+
+[Screenshot Minterm Expression](sshot_2_minterm.png)
+
+[Screenshot Minterm Expression](sshot_3_minterm.png)
+
+[Screenshot Prime](sshot_4_minterm.png)
+
+[Screenshot Solusi](sshot_5_minterm.png)
+
+
