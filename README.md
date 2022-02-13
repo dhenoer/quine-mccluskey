@@ -41,6 +41,6 @@ atau `abc + ab + c'`
 
 ## Flowchart
 
-![Flowchart Main Application](flowchart-quine-main.png)Flowchart Main Application
+![Flowchart Main Application](flowchart-mcquine-main.png)Flowchart Main Application
 
-![Flowchart Quine Procedure](flowchart-quine-procedure.png)Flowchart Quine Procedure
+![Flowchart Quine Procedure](flowchart-mcquine-procedure.png)Flowchart Quine Procedure
