@@ -29,18 +29,18 @@ atau `abc + ab + c'`
 
 ## Tangkapan Layar
 
-![Screenshot Menu](sshot_1_menu.png){width=50%}
+![Screenshot Menu](sshot_1_menu.png)Screenshot Menu
 
-![Screenshot Minterm Expression](sshot_2_minterm.png){width:50%}
+![Screenshot Minterm Expression](sshot_2_minterm.png)Screenshot Minterm Expression
 
-![Screenshot Minterm Expression](sshot_3_minterm.png){width:50%}
+![Screenshot Minterm Expression](sshot_3_minterm.png)Screenshot Minterm Expression
 
-![Screenshot Prime](sshot_4_minterm.png){width:50%}
+![Screenshot Prime Implicant](sshot_4_minterm.png)Screenshot Prime Implicant
 
-![Screenshot Solusi](sshot_5_minterm.png){width:50%}
+![Screenshot Solusi](sshot_5_minterm.png)Screenshot Solusi
 
 ## Flowchart
 
-![Flowchart Main Application](flowchart_main.png)
+![Flowchart Main Application](flowchart-quine-main.png)Flowchart Main Application
 
-![Flowchart Quine Procedure](flowchart_procedure.png)
+![Flowchart Quine Procedure](flowchart-quine-procedure.png)Flowchart Quine Procedure
