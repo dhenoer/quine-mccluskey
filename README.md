@@ -29,7 +29,7 @@ atau `abc + ab + c'`
 
 ## Tangkapan Layar
 
-![Screenshot Menu](sshot_1_menu.png){width:50%}
+![Screenshot Menu](sshot_1_menu.png){width=50%}
 
 ![Screenshot Minterm Expression](sshot_2_minterm.png){width:50%}
 
@@ -39,4 +39,8 @@ atau `abc + ab + c'`
 
 ![Screenshot Solusi](sshot_5_minterm.png){width:50%}
 
+## Flowchart
 
+![Flowchart Main Application](flowchart_main.png)
+
+![Flowchart Quine Procedure](flowchart_procedure.png)
